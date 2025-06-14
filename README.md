@@ -12,10 +12,8 @@
 
 - [DevelopersIO](https://dev.classmethod.jp/author/tsukuboshi)
 - [Zenn](https://zenn.dev/tsukuboshi)
-- [Qiita](https://qiita.com/kuraboshi)
 - [Github](https://github.com/tsukuboshi)
 - [SpeakerDeck](https://speakerdeck.com/tsukuboshi)
-- [Docswell](https://www.docswell.com/user/tsukuboshi)
 - [X](https://x.com/tsukuboshi0755)
 
 ## 業務スキル
@@ -85,7 +83,7 @@ AWS アーキテクチャを構築するにあたり、CloudFormation、Terrafor
 |Japan AWS Top Engineer|2024|
 |AWS Community Builder|2024|
 
-※Japan AWS Top Engineerについて[2024 Japan AWS Top Engineers クライテリアのお知らせ \| AWS JAPAN APN ブログ](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-top-engineers-criteria/)より引用
+※Japan AWS Top Engineerについて[2024 Japan AWS Top Engineers クライテリアのお知らせ | AWS JAPAN APN ブログ](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-top-engineers-criteria/)より引用
 
 > 「Japan AWS Top Engineer Program」とは、AWS Partner Network (APN) に参加している会社に所属している AWS エンジニアを対象にした日本独自の表彰プログラムです。特定の AWS 認定資格を持ち、AWS ビジネス拡大につながる技術力を発揮した活動を行っている方、または技術力を発揮したその他の重要な活動や成果がある方を、Japan AWS Top Engineers として、AWS Japan が審査し選出します。
 
@@ -555,13 +553,13 @@ DX 推進に関連した新ビジネスを確立するべく、コンテナ技�
 
 - [AWS入門ブログリレー2024〜Amazon Bedrock編〜](https://dev.classmethod.jp/articles/introduction-2024-aws-bedrock/)
 - [CloudFormation一撃で作るAWS料金通知ツール(Email/Slack/LINE対応)](https://dev.classmethod.jp/articles/notify-aws-billing-for-cloudformaiton/)
-- [Knowledge Bases for Amazon Bedrock \(with OpenSearch Serverless\)をSAMで実装してみた](https://dev.classmethod.jp/articles/sam-knowledge-base-for-bedrock-with-oss/)
+- [Knowledge Bases for Amazon Bedrock (with OpenSearch Serverless)をSAMで実装してみた](https://dev.classmethod.jp/articles/sam-knowledge-base-for-bedrock-with-oss/)
 - [S3にアップロードしたAWS構成図をCloudFormationに変換するシステムを作ってみた](https://dev.classmethod.jp/articles/bedrock-claude-convert-diagram-to-cfn/)
 - [Kendraのアクセスコントロール設定をEntra IDのOpen ID Connectを用いて有効化してみた](https://dev.classmethod.jp/articles/kendra-sharepoint-entraid-oidc/)
-- [AWSの構成図をChatGPT\(GPT\-4V\)に読み込ませてIaCコードを生成してみた](https://dev.classmethod.jp/articles/chatgpt-convert-aws-diagram-to-iac/)
+- [AWSの構成図をChatGPT(GPT-4V)に読み込ませてIaCコードを生成してみた](https://dev.classmethod.jp/articles/chatgpt-convert-aws-diagram-to-iac/)
 - [ECSとCodePipelineのブルー/グリーンデプロイ構成をCDKで実装してみた](https://dev.classmethod.jp/articles/cdk-ecr-ecs-bluegreen-deployment/)
 - [AuroraとRDSの違いを一覧表でまとめてみた](https://dev.classmethod.jp/articles/aurora-or-rds-by-table/)
-- [FireLens\(Fluent Bit\)におけるログルーティングの仕組みについて調査してみた](https://dev.classmethod.jp/articles/ecs_firelens_tag/)
+- [FireLens(Fluent Bit)におけるログルーティングの仕組みについて調査してみた](https://dev.classmethod.jp/articles/ecs_firelens_tag/)
 - [TerraformでCloudFront Functionsを環境ごとに有効化/無効化してみた](https://dev.classmethod.jp/articles/cloudfront-functions-per-env-terraform/)
 
 #### Zenn
@@ -572,10 +570,6 @@ DX 推進に関連した新ビジネスを確立するべく、コンテナ技�
 - [Google Calenderの予定をTypeScriptを用いて色別で工数集計してみた](https://zenn.dev/tsukuboshi/articles/31c95d863d8896)
 - [GmailをTypeScriptとLINE Messaging APIを用いてLINEに自動転送してみた](https://zenn.dev/tsukuboshi/articles/gas-gmail-to-line)
 - [MCP Serverを呼び出すAIエージェントをMastra、Next.js、AWS CDKで実装してみた](https://zenn.dev/tsukuboshi/articles/nextjs-mastra-mcp-with-aws)
-
-#### Qiita
-
-- [【備忘録】Kubernetesの仕組みを整理する \#kubernetes \- Qiita](https://qiita.com/kuraboshi/items/036ba1b5cf67cb8a6dcd)
 
 ### イベント登壇
 
