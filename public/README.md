@@ -83,14 +83,6 @@ AWS アーキテクチャを構築するにあたり、CloudFormation、Terrafor
 |Japan AWS Top Engineer|2024|
 |AWS Community Builder|2024|
 
-※Japan AWS Top Engineerについて[2024 Japan AWS Top Engineers クライテリアのお知らせ | AWS JAPAN APN ブログ](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-top-engineers-criteria/)より引用
-
-> 「Japan AWS Top Engineer Program」とは、AWS Partner Network (APN) に参加している会社に所属している AWS エンジニアを対象にした日本独自の表彰プログラムです。特定の AWS 認定資格を持ち、AWS ビジネス拡大につながる技術力を発揮した活動を行っている方、または技術力を発揮したその他の重要な活動や成果がある方を、Japan AWS Top Engineers として、AWS Japan が審査し選出します。
-
-※AWS Community Builderについて[AWS コミュニティビルダー｜ワールドワイドのクラウドコミュニティ｜AWS デベロッパーセンター](https://aws.amazon.com/jp/developer/community/community-builders/)より引用
-
-> このプログラムでは、AWS の内容領域専門家が有益なウェビナーを提供し、最新サービスに関する情報を含め、技術コンテンツの作成、リーチの拡大、オンラインおよび対面でのコミュニティにおける AWS 知識の共有に関するベストプラクティスなどを共有します。このプログラムでは、年間限定数のメンバーを受け入れます。AWS ビルダーの皆様は、ぜひご応募ください。
-
 ### 資格
 
 |資格名|取得日|
@@ -109,8 +101,10 @@ AWS アーキテクチャを構築するにあたり、CloudFormation、Terrafor
 
 ### クラスメソッド株式会社（2022/3 - 2025/6）
 
+```txt
 主にソリューションアーキテクトとして、AWS アーキテクチャの/設計/構築を担当しました。  
 またPJに応じて、バックエンドエンジニア兼任でサーバレスアプリケーションの開発や、プロジェクトマネージャー兼任でチームマネジメント及び顧客折衝も行っています。  
+```
 
 以下では参画したプロジェクトの内、主要なもののみを記載します。
 
@@ -417,8 +411,10 @@ Web サイトリニューアルに伴い、RDS インスタンスタイプを定
 
 ### 兼松エレクトロニクス株式会社（2019/4 - 2022/2)
 
+```txt
 インフラエンジニアとして、主にオンプレミスにおける Linux サーバの設計/構築を担当しました。  
 またコンテナ技術（Docker/Kubernetes)の検証も実施しています。
+```
 
 以下では参画したプロジェクトの内、主要なもののみを記載します。
 
