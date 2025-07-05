@@ -642,6 +642,12 @@ DX 推進に関連した新ビジネスを確立するべく、コンテナ技�
 
 以下では登壇したイベントの内、主要な資料及び動画を記載します。
 
+#### [Mita.ts #5](https://classmethod.connpass.com/event/346442/)：Mastraに入門してみた ~AWS CDKを添えて~
+
+**資料**
+
+- [Mastraに入門してみた ~AWS CDKを添えて~](https://speakerdeck.com/player/c5f37701df3a4d46a3f4ea1e55d2223a)
+
 #### [Amazon Bedrock GenUハンズオン #1](https://classmethod.connpass.com/event/346442/)：生成AI解説資料
 
 **資料**
@@ -654,7 +660,7 @@ DX 推進に関連した新ビジネスを確立するべく、コンテナ技�
 
 - [Amazon Bedrock GenUハンズオン座学資料 #2 GenU環境でRAGを体験してみよう](https://www.docswell.com/slide/5DNR34/embed)
 
-#### [Classmethod AI Talks(CATs) 〜生成AI 新年LT大会〜](https://cats.doorkeeper.jp/events/180830)：AWSエンジニアに捧ぐLangChainの歩き方
+#### [Classmethod AI Talks(CATs) #14](https://cats.doorkeeper.jp/events/180830)：AWSエンジニアに捧ぐLangChainの歩き方
 
 **資料**
 
@@ -663,6 +669,22 @@ DX 推進に関連した新ビジネスを確立するべく、コンテナ技�
 **動画**
 
 - [AWSエンジニアに捧ぐLangChainの歩き方 - YouTube](https://www.youtube.com/embed/AJKS7i67Sxg?si=sFiaMmE_17lAaWO8)
+
+#### [Toranomon Tech Hub #2](https://toranomon-tech-hub.connpass.com/event/337629/)：世界の中心でApp Runnerを叫ぶ  ~Aurora DSQLを添えて~
+
+**資料**
+
+- [世界の中心でApp Runnerを叫ぶ  ~Aurora DSQLを添えて~](https://speakerdeck.com/player/46b7da3d0de64407bdaf9f1226040a21)
+
+#### [Classmethod AI Talks(CATs) #5](https://cats.doorkeeper.jp/events/178112)：初めてのGPTs 〜ネコ派を◯◯派に変える技術〜
+
+**資料**
+
+- [初めてのGPTs 〜ネコ派を◯◯派に変える技術〜 - Speaker Deck](https://www.youtube.com/embed/5u4FyeXi2mU?si=5b1a8d9f0c6e4f3b)
+
+**動画**
+
+- [クラメソエンジニア陣が執筆！書籍『ビジネスのためのChatGPT活用ガイド』でChatGPTの業務活用を始めてみよう - YouTube](https://www.youtube.com/embed/5u4FyeXi2mU)
 
 #### [JAWS FESTA 2024 in 広島](https://jawsfesta2024.jaws-ug.jp/)：Amplify Gen 2ではじめる 生成AIアプリ開発入門
 
