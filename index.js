@@ -11,7 +11,6 @@ var Er=Object.defineProperty;var Zt=e=>{throw TypeError(e)};var kr=(e,t,n)=>t in
 |---|---|
 |ハンドルネーム|つくぼし|
 |最終学歴|早稲田大学 商学部卒|
-|経験職種|インフラエンジニア/バックエンドエンジニア/生成AIエンジニア/プロジェクトマネージャー|
 
 ### アカウント
 
