@@ -78,7 +78,7 @@ AWS アーキテクチャを構築するにあたり、CloudFormation、Terrafor
 
 ### 表彰
 
-|表彰名|対象年度|参考|
+|表彰名|対象年度|
 |---|---|
 |Japan AWS Top Engineer|2024/2025|
 |AWS Community Builder|2024/2025|
