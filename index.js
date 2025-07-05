@@ -11,6 +11,7 @@ var Er=Object.defineProperty;var Zt=e=>{throw TypeError(e)};var kr=(e,t,n)=>t in
 |---|---|
 |ハンドルネーム|つくぼし|
 |最終学歴|早稲田大学 商学部卒|
+|職種|ソフトウェアエンジニア/ソリューションアーキテクト|
 
 ### アカウント
 
