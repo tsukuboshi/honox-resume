@@ -68,7 +68,7 @@ AWS アーキテクチャを構築するにあたり、CloudFormation、Terrafor
 
 ### Programming Language
 
-`Python` `JavaScript` `TypeScript`
+`Python` `Node.js` `TypeScript`
 
 ### SaaS
 
