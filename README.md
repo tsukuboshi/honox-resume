@@ -65,7 +65,3 @@ mainブランチで`public/README.md`をコミットすると、GitHub Actions�
 - `app/style.css`: スタイル調整
 - `app/components/`: UIコンポーネントの修正
 - `vite.config.ts`: ビルド設定
-
-## ライセンス
-
-MIT License
