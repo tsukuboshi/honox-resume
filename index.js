@@ -548,9 +548,10 @@ DX 推進に関連した新ビジネスを確立するべく、コンテナ技�
 
 以下では開発した自作リポジトリの内、主要なものを記載します。
 
-|リポジトリ名|言語|概要|
+|リポジトリ名|言語・フレームワーク|概要|
 |---|---|---|
 |[dotfiles](https://github.com/tsukuboshi/dotfiles)|\`Bash\`|自身の PC セットアップ用の dotfiles|
+|[honox-resume-template](https://github.com/tsukuboshi/honox-resume-template)|\`TypeScript\` \`HonoX\` \`Vite\`|Markdown職務経歴書をWebサイトとPDFに変換し自動デプロイするテンプレート|
 |[sam-notify-aws-billing](https://github.com/tsukuboshi/sam-notify-aws-billing)|\`SAM\` \`Python\`|AWS 利用料金を通知するサーバレスシステムコード|
 |[sam-ai-cloud-engineer](https://github.com/tsukuboshi/sam-ai-cloud-engineer)|\`SAM\` \`Python\`|Amazon Bedrock を活用し構成図を CloudFormation テンプレートとパラメータシートに変換するサーバレスシステムコード|
 |[gas-count-schedule-time](https://github.com/tsukuboshi/gas-count-schedule-time)|\`Apps Script\` \`TypeScript\`|Googleカレンダーの予定から色ごとに工数をカウントし集計するアプリコード|
