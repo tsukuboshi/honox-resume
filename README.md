@@ -141,48 +141,7 @@ DevelopersIO、Zennなどで200本以上の技術記事を執筆し、AWSや生�
 
 参画したプロジェクトが多いため、以下で主要なもののみ個別で記載します。
 
-#### [生成AIコンピテンシー](https://classmethod.jp/news/250619-generative-ai-competency/)取得活動(2024/5 - 2025/6)
-
-**概要**
-
-AWSパートナーの認定制度である生成 AI コンピテンシーを取得するための活動に貢献。
-
-**役割**
-
-- 生成AIエンジニア
-
-**業務内容**
-
-1. AWS Japanとの連携調整
-2. 生成AI案件及び自社製品に関するドキュメント整備
-3. コンピテンシーの監査対応
-
-#### AIチャットボット設計構築 (2024/9 - 2025/6)
-
-**概要**
-
-生成 AI を活用したOSSである[GenU](https://github.com/aws-samples/generative-ai-use-cases)を用いたチャットボットを構築  
-
-**役割**
-
-- プリセールス
-- プロジェクトマネージャー
-- 生成AIエンジニア
-
-**業務内容**
-
-1. 技術営業
-2. 顧客折衝
-3. チャットボット設計書作成
-4. チャットボット構築作業
-5. チャットボット動作確認試験
-
-**使用技術**
-
-- AWS サービス：`WAF` `DynamoDB` `Secrets Manager` `Lambda(Node.js)` `Bedrock` `Kendra` `S3`
-- IaC： `CDK(Typescript)`
-
-#### SaaSログ連携・保管コンテナシステム設計構築 (2024/9 - 2025/3)
+#### SaaSログ連携・保管コンテナシステム設計構築 (2024/9 - 2025/6)
 
 **概要**
 
@@ -211,7 +170,7 @@ SaaS から出力されるログを定期的に AWS にアップロードし、�
 - IaC： `CloudFormation` `SAM`
 - SaaS： `GitHub`
 
-#### [AI-Starter](https://classmethod.jp/services/generative-ai/ai-starter/)内製開発(2024/1 - 2025/6)
+#### AI-Starter内製開発(2024/1 - 2025/6)
 
 **概要**
 
@@ -233,6 +192,35 @@ SaaS から出力されるログを定期的に AWS にアップロードし、�
 - AWS サービス：`WAF` `App Runner` `DynamoDB` `Secrets Manager` `Lambda(Node.js)` `Bedrock` `Kendra` `S3`
 - IaC： `CDK(Typescript)`
 
+**参考URL**
+
+- [生成AI環境構築サービス「AI\-Starter」 \| サービス \| クラスメソッド株式会社](https://classmethod.jp/services/generative-ai/ai-starter/)
+
+#### AIチャットボット設計構築 (2024/9 - 2025/3)
+
+**概要**
+
+生成 AI を活用したOSSである[GenU](https://github.com/aws-samples/generative-ai-use-cases)を用いたチャットボットを構築  
+
+**役割**
+
+- プリセールス
+- プロジェクトマネージャー
+- 生成AIエンジニア
+
+**業務内容**
+
+1. 技術営業
+2. 顧客折衝
+3. チャットボット設計書作成
+4. チャットボット構築作業
+5. チャットボット動作確認試験
+
+**使用技術**
+
+- AWS サービス：`WAF` `DynamoDB` `Secrets Manager` `Lambda(Node.js)` `Bedrock` `Kendra` `S3`
+- IaC： `CDK(Typescript)`
+
 #### 社内生成AIインフラチーム活動(2024/1 - 2024/8)
 
 **概要**
@@ -246,11 +234,14 @@ SaaS から出力されるログを定期的に AWS にアップロードし、�
 
 **業務内容**
 
-1. チームマネジメント(5 人)
+1. チームマネジメント
 2. 生成AI勉強会開催
 3. 生成AI案件対応推進
 4. 生成AI部署連携促進
-5. 生成AI検証環境整備
+5. 生成AIコンピテンシー取得
+
+**参考URL**
+[40社の支援実績によりAWSの「生成AIコンピテンシー」を取得〜業務システムへの組み込み、伴走型の人材育成支援など、技術力と問題解決力が評価〜 \| クラスメソッド株式会社](https://classmethod.jp/news/250619-generative-ai-competency/)
 
 #### RAG システム設計構築 (2023/11 - 2024/3)
 
@@ -274,7 +265,7 @@ SaaS から出力されるログを定期的に AWS にアップロードし、�
 - AWS サービス：`WAF` `App Runner` `Bedrock` `Kendra` `S3`
 - IaC： `CloudFormation`
 
-#### [AWSマルチアカウント管理支援](https://classmethod.jp/aws/services/multi-account/)通知集約システム内製開発(2023/8 - 2024/2)
+#### AWSマルチアカウント管理支援通知集約システム内製開発(2023/8 - 2024/2)
 
 **概要**
 
@@ -294,6 +285,10 @@ SaaS から出力されるログを定期的に AWS にアップロードし、�
 
 - AWS サービス：`Security Hub` `GuardDuty` `Step Functions` `EventBridge`
 - IaC： `CDK(Typescript)`
+
+**参考URL**
+
+- [AWSマルチアカウント管理支援 \| クラスメソッド株式会社](https://classmethod.jp/aws/services/multi-account/)
 
 #### SaaSログ連携・保管サーバレスシステム設計構築(2023/5 - 2024/6)
 
@@ -477,7 +472,6 @@ AWSを基盤とするWebアプリケーションの設計/開発を行う自社�
 |[sam-notify-aws-billing](https://github.com/tsukuboshi/sam-notify-aws-billing)|`SAM` `Python`|AWS 利用料金を通知するサーバレスシステムコード|
 |[sam-ai-cloud-engineer](https://github.com/tsukuboshi/sam-ai-cloud-engineer)|`SAM` `Python`|Amazon Bedrock を活用し構成図を CloudFormation テンプレートとパラメータシートに変換するサーバレスシステムコード|
 |[gas-count-schedule-time](https://github.com/tsukuboshi/gas-count-schedule-time)|`Apps Script` `TypeScript`|Googleカレンダーの予定から色ごとに工数をカウントし集計するアプリコード|
-|[sam-bedrock-kendra-rag](https://github.com/tsukuboshi/sam-bedrock-kendra-rag)|`SAM` `Python`|Amazon Kendra と Amazon Bedrock を用いた RAG システムデプロイするためのコード|
 |[sam-bedrock-kb-aurora-rag](https://github.com/tsukuboshi/sam-bedrock-kb-aurora-rag)|`SAM` `Python`|Amazon Aurora と Amazon Bedrock Knowledge Bases を用いた RAG システムデプロイするためのコード|
 |[terraform-microservices-template](https://github.com/tsukuboshi/terraform-microservices-template)|`Terraform`|AWS を用いたマイクロサービス構成用 Terraform テンプレート|
 |[cdk-microservices-bluegreendeployment-template](https://github.com/tsukuboshi/cdk-microservices-bluegreendeployment-template)|`CDK` `TypeScript`|AWS を用いた マイクロサービス構成用 CDK テンプレート|
