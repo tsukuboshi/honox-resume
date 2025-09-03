@@ -414,18 +414,18 @@ DevelopersIO、Zennなどで100本以上の技術記事を執筆すると共に�
 
 以下では登壇したイベントの内、主要な資料及び動画を記載します。
 
-#### [Mita.ts #5](https://mitats.connpass.com/event/340678/)：Mastraに入門してみた ~AWS CDKを添えて~
+#### [Mita.ts #5](https://mitats.connpass.com/event/340678/)：Mastraに入門してみた 〜AWS CDKを添えて〜
 
-- [Mastraに入門してみた ~AWS CDKを添えて~ - Speaker Deck](https://speakerdeck.com/player/c5f37701df3a4d46a3f4ea1e55d2223a)
+- [Mastraに入門してみた 〜AWS CDKを添えて〜 - Speaker Deck](https://speakerdeck.com/player/c5f37701df3a4d46a3f4ea1e55d2223a)
 
 #### [Classmethod AI Talks(CATs) #14](https://cats.doorkeeper.jp/events/180830)：AWSエンジニアに捧ぐLangChainの歩き方
 
 - [AWSエンジニアに捧ぐLangChainの歩き方 - Speaker Deck](https://speakerdeck.com/player/8c6afd2c50c34c189d72892eebf4c2ae)
 - [AWSエンジニアに捧ぐLangChainの歩き方 - YouTube](https://www.youtube.com/embed/AJKS7i67Sxg?si=sFiaMmE_17lAaWO8)
 
-#### [Toranomon Tech Hub #2](https://toranomon-tech-hub.connpass.com/event/337629/)：世界の中心でApp Runnerを叫ぶ  ~Aurora DSQLを添えて~
+#### [Toranomon Tech Hub #2](https://toranomon-tech-hub.connpass.com/event/337629/)：世界の中心でApp Runnerを叫ぶ  〜Aurora DSQLを添えて〜
 
-- [世界の中心でApp Runnerを叫ぶ  ~Aurora DSQLを添えて~ - Speaker Deck](https://speakerdeck.com/player/46b7da3d0de64407bdaf9f1226040a21)
+- [世界の中心でApp Runnerを叫ぶ  〜Aurora DSQLを添えて〜 - Speaker Deck](https://speakerdeck.com/player/46b7da3d0de64407bdaf9f1226040a21)
 
 #### [Classmethod AI Talks(CATs) #5](https://cats.doorkeeper.jp/events/178112)：初めてのGPTs 〜ネコ派を◯◯派に変える技術〜
 
