@@ -486,7 +486,7 @@ DevelopersIO、Zennなどで100本以上の技術記事を執筆すると共に�
 
 #### Software Design 2024年11月号寄稿
 
-**概要**：「第1特集 新世代の開発スタイル はじめてのAI駆動開発」における「第4章：Infrastructure as Codeで生成AIを活用するアーキテクチャ図⇔IaCコードの変換も自由自在」を寄稿
+**概要**：「第1特集 新世代の開発スタイル はじめてのAI駆動開発」内の「第4章：Infrastructure as Codeで生成AIを活用するアーキテクチャ図⇔IaCコードの変換も自由自在」を寄稿
 
 **参考URL**：[Software Design 2024年11月号 \| 技術評論社](https://gihyo.jp/magazine/SD/archive/2024/202411)
 
