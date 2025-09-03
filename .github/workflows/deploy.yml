@@ -25,7 +25,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y fonts-noto-cjk
       - name: Build PDF
-        run: npm run build:pdf
+        run: npm run build:pdf:compact
       - name: Build
         run: |
           echo "Repository name: $REPOSITORY_NAME"

@@ -5,7 +5,8 @@
     "dev": "vite",
     "preview": "vite preview",
     "build": "vite build --mode client && vite build",
-    "build:pdf": "md-to-pdf public/README.md --launch-options '{ \"args\": [\"--no-sandbox\"] }'"
+    "build:pdf": "md-to-pdf public/README.md --launch-options '{ \"args\": [\"--no-sandbox\"] }'",
+    "build:pdf:compact": "md-to-pdf public/README.md --launch-options '{ \"args\": [\"--no-sandbox\"] }' --pdf-options '{ \"format\": \"A4\", \"margin\": { \"top\": \"10mm\", \"right\": \"10mm\", \"bottom\": \"10mm\", \"left\": \"10mm\" }, \"scale\": 0.8 }' --css 'body { font-size: 11px; line-height: 1.3; } h2 { margin-top: 10px; margin-bottom: 5px; } h3 { margin-top: 8px; margin-bottom: 4px; } p, ul, ol { margin-top: 4px; margin-bottom: 4px; } table { font-size: 10px; } pre { padding: 5px; margin: 5px 0; }'"
   },
   "private": true,
   "dependencies": {
