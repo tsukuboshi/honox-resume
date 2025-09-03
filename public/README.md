@@ -471,10 +471,10 @@ AWSを基盤とするWebアプリケーションの設計/開発を行う自社�
 |[honox-resume-template](https://github.com/tsukuboshi/honox-resume-template)|`TypeScript` `HonoX` `Vite`|Markdown職務経歴書をWebサイトとPDFに変換し自動デプロイするテンプレート|
 |[sam-notify-aws-billing](https://github.com/tsukuboshi/sam-notify-aws-billing)|`SAM` `Python`|AWS 利用料金を通知するサーバレスシステムコード|
 |[sam-ai-cloud-engineer](https://github.com/tsukuboshi/sam-ai-cloud-engineer)|`SAM` `Python`|Amazon Bedrock を活用し構成図を CloudFormation テンプレートとパラメータシートに変換するサーバレスシステムコード|
+|[nextjs-mastra-mcp-with-aws](https://github.com/tsukuboshi/nextjs-mastra-mcp-with-aws)|`CDK` `TypeScript`|AWS とMastraで実装したMCP Serverを呼び出すAIエージェント|
 |[gas-count-schedule-time](https://github.com/tsukuboshi/gas-count-schedule-time)|`Apps Script` `TypeScript`|Googleカレンダーの予定から色ごとに工数をカウントし集計するアプリコード|
 |[sam-bedrock-kb-aurora-rag](https://github.com/tsukuboshi/sam-bedrock-kb-aurora-rag)|`SAM` `Python`|Amazon Aurora と Amazon Bedrock Knowledge Bases を用いた RAG システムデプロイするためのコード|
 |[terraform-microservices-template](https://github.com/tsukuboshi/terraform-microservices-template)|`Terraform`|AWS を用いたマイクロサービス構成用 Terraform テンプレート|
-|[cdk-microservices-bluegreendeployment-template](https://github.com/tsukuboshi/cdk-microservices-bluegreendeployment-template)|`CDK` `TypeScript`|AWS を用いた マイクロサービス構成用 CDK テンプレート|
 
 ### ブログ投稿
 
