@@ -200,7 +200,7 @@ DevelopersIO、Zennなどで100本以上の技術記事を執筆すると共に�
 2. 生成AI案件対応推進
 3. 生成AIコンピテンシー取得
 
-**参考URL**：[40社の支援実績によりAWSの「生成AIコンピテンシー」を取得〜業務システムへの組み込み、伴走型の人材育成支援など、技術力と問題解決力が評価〜 \| クラスメソッド株式会社](https://classmethod.jp/news/250619-generative-ai-competency/)
+**参考URL**：[40社の支援実績によりAWSの「生成AIコンピテンシー」を取得 \| クラスメソッド株式会社](https://classmethod.jp/news/250619-generative-ai-competency/)
 
 #### RAG システム設計構築 (2023/11 - 2024/3)
 
@@ -484,12 +484,14 @@ DevelopersIO、Zennなどで100本以上の技術記事を執筆すると共に�
 
 ### 特筆事項
 
-以下では特記するべき経歴について記載します。  
+#### Software Design 2024年11月号寄稿
 
-#### [Software Design 2024年11月号](https://gihyo.jp/magazine/SD/archive/2024/202411)寄稿
+**概要**：「第1特集 新世代の開発スタイル はじめてのAI駆動開発」における「第4章：Infrastructure as Codeで生成AIを活用するアーキテクチャ図⇔IaCコードの変換も自由自在」を寄稿
 
-「第1特集 新世代の開発スタイル はじめてのAI駆動開発」における「第4章：Infrastructure as Codeで生成AIを活用するアーキテクチャ図⇔IaCコードの変換も自由自在」を寄稿
+**参考URL**：[Software Design 2024年11月号 \| 技術評論社](https://gihyo.jp/magazine/SD/archive/2024/202411)
 
-#### [JAWS-UG 茨城](https://jawsug-ibaraki.connpass.com/)運営
+#### JAWS-UG 茨城運営
 
-JAWS-UG茨城の初期メンバーとして2024/11からの立ち上げに貢献し、運営メンバーとして活動中
+**概要**：JAWS-UG茨城の初期メンバーとして2024/11からの立ち上げに貢献し、運営メンバーとして活動中
+
+**参考URL**：[JAWS\-UG 茨城 \- connpass](https://jawsug-ibaraki.connpass.com/)
