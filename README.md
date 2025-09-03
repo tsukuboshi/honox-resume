@@ -142,12 +142,26 @@ DevelopersIO、Zennなどで100本以上の技術記事を執筆すると共に�
 
 #### SaaSログ連携・保管コンテナシステム設計構築 (2024/9 - 2025/6)
 
-| 項目 | 内容 |
-|------|------|
-| 概要 | SaaS から出力されるログを定期的に AWS にアップロードし、特定用途で使用するためのログ形式に加工するコンテナアプリケーションをフルスクラッチで開発 |
-| 役割 | ・プロジェクトマネージャー<br>・バックエンドエンジニア |
-| 業務内容 | 1. 技術営業/顧客折衝/チームマネジメント(3 人)<br>2. コンテナアプリ/インフラ設計書作成<br>3. コンテナアプリ/インフラ構築作業 |
-| 使用技術 | **AWS サービス：**`VPC` `ECR` `ECS(Fargate)` `Lambda(Python)` `SQS` `SNS` `S3` `CloudWatch (Alarm・Logs)` `EventBridge` `Step Functions`<br>**IaC：**`CloudFormation` `SAM`<br>**SaaS：**`GitHub` |
+**概要**
+
+SaaS から出力されるログを定期的に AWS にアップロードし、特定用途で使用するためのログ形式に加工するコンテナアプリケーションをフルスクラッチで開発
+
+**役割**
+
+- プロジェクトマネージャー
+- バックエンドエンジニア
+
+**業務内容**
+
+1. 技術営業/顧客折衝/チームマネジメント(3 人)
+2. コンテナアプリ/インフラ設計書作成
+3. コンテナアプリ/インフラ構築作業
+
+**使用技術**
+
+- AWS サービス：`VPC` `ECR` `ECS(Fargate)` `Lambda(Python)` `SQS` `SNS` `S3` `CloudWatch (Alarm・Logs)` `EventBridge` `Step Functions`
+- IaC： `CloudFormation` `SAM`
+- SaaS： `GitHub`
 
 #### AI-Starter内製開発(2024/1 - 2025/6)
 
