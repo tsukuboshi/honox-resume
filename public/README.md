@@ -159,9 +159,9 @@ DevelopersIO、Zennなどで100本以上の技術記事を執筆すると共に�
 
 **業務内容**
 
-1. React.js + Fastifyアプリと技術スタックを統一し開発チーム全体の保守性向上のためCDK（TypeScript）でIaCを刷新し、コンストラクト化により顧客要件に応じた多様なアーキテクチャパターンの提供を実現
-2. 顧客環境へのデプロイ作業を効率化するためCDKからMarketplace用CloudFormationテンプレートを生成する仕組みを実装し、CDKメタデータ削除とパラメータ最適化により標準化されたデプロイを確立
-3. 運用負荷削減のためApp Runner/Bedrock/Kendraでサーバレス RAGアーキテクチャを設計・構築し、コンソールからのAPIキー変更に対応するためLambda-backedカスタムリソースでSecrets Manager連携を実装
+1. React.jsアプリと技術スタックを統一し保守性を向上させるためCDK（TypeScript）でIaCを刷新し、コンストラクト化により要件に応じた構成パターンの提供を実現
+2. 顧客環境へのデプロイ作業を効率化するため、CDKからメタデータ削除及びパラメータ最適化がされたCloudFormationを生成する標準化されたデプロイ手法を確立
+3. 運用負荷削減のためBedrock/Kendra/s3でサーバレス RAGアーキテクチャを設計・構築し、コンソールからのAPIキー変更に対応するためLambda-backedカスタムリソースでSecrets Manager連携を実装
 
 **使用技術**
 
@@ -261,7 +261,7 @@ DevelopersIO、Zennなどで100本以上の技術記事を執筆すると共に�
 
 **業務内容**
 
-1. アクセス数に応じたスケーリングの要求に対しALB/ECS Fargateを設計・構築しCloudFormationでコード化、PHPログの用途別振り分けのためFireLens + Fluent Bitによるログルーティングを実装
+1. アクセス数に応じたスケーリングの要求に対しECS Fargateを設計・構築し、PHPログの用途別振り分けのためFireLensによるログルーティングを実装
 2. CI/CD未経験の顧客のためCodePipelineのローリングアップデートとブルー・グリーンの比較検証を実施し、シンプルな構成を重視してローリングアップデートを設計・構築
 3. 社内ネットワーク限定アクセスとTLS暗号化要件を満たすため、API Gateway/NLB/ECSのプライベート統合にCloudFront/WAFを組み合わせたセキュアな認証基盤を実現
 
