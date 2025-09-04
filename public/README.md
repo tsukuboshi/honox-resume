@@ -319,7 +319,7 @@ DevelopersIO、Zennなどで100本以上の技術記事を執筆すると共に�
 
 **使用技術**
 
-- AWS サービス：`IAM` `VPC` `ELB(ALB)` `EC2` `RDS(MySQL)` `ElastiCache(Redis)` `S3` `Route 53` `ACM` `Lambda`
+- AWS サービス：`IAM` `VPC` `ELB(ALB)` `EC2` `RDS(MySQL)` `ElastiCache(Redis)` `S3` `Route 53` `ACM` `Lambda(Python)`
 - IaC： `Terraform`
 
 ### 兼松エレクトロニクス株式会社(正社員：2019/4 - 2022/2)
