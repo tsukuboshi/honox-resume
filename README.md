@@ -158,6 +158,8 @@ DevelopersIO、Zennなどで100本以上の技術記事を執筆すると共に�
 
 **役割**：生成AIエンジニア/インフラエンジニア
 
+**参考URL**：[生成AI環境構築サービス「AI\-Starter」 \| サービス \| クラスメソッド株式会社](https://classmethod.jp/services/generative-ai/ai-starter/)
+
 **業務内容**
 
 1. React.jsアプリと技術スタックを統一し保守性を向上させるためCDK（TypeScript）でIaCを刷新し、コンストラクト化により要件に応じた構成パターンの提供を実現
@@ -168,8 +170,6 @@ DevelopersIO、Zennなどで100本以上の技術記事を執筆すると共に�
 
 - AWS サービス：`WAF` `App Runner` `DynamoDB` `Secrets Manager` `Lambda(Node.js)` `Bedrock` `Kendra` `S3`
 - IaC： `CDK(Typescript)`
-
-**参考URL**：[生成AI環境構築サービス「AI\-Starter」 \| サービス \| クラスメソッド株式会社](https://classmethod.jp/services/generative-ai/ai-starter/)
 
 #### AIチャットボット設計構築 (2024/9 - 2025/3)
 
@@ -195,14 +195,14 @@ DevelopersIO、Zennなどで100本以上の技術記事を執筆すると共に�
 
 **役割**：チームリーダー(5名チーム)/生成AIエンジニア
 
+**参考URL**：[40社の支援実績によりAWSの「生成AIコンピテンシー」を取得 \| クラスメソッド株式会社](https://classmethod.jp/news/250619-generative-ai-competency/)
+
 **業務内容**
 
 1. 5名チームのリーダーとして生成AIインフラチームを立ち上げ、メンバーの自主性を重視した運営方針で各自の得意分野での専門性向上を促進
 2. 部門間の連携不足解消のため定期交流会を主導し、成功事例の共有とナレッジベース構築により効率的な業務フローを整備
 3. 部門内の生成AI知識格差を解消するために定期的なブログ作成/勉強会を企画するとともに、生成AIに関する各種QA対応を積極的に実施
 4. AWSコンピテンシー取得要件を満たすため生成AI案件のドキュメント整備と監査対応準備を部門横断で実施し、コンピテンシー取得に貢献
-
-**参考URL**：[40社の支援実績によりAWSの「生成AIコンピテンシー」を取得 \| クラスメソッド株式会社](https://classmethod.jp/news/250619-generative-ai-competency/)
 
 #### RAG システム設計構築 (2023/11 - 2024/3)
 
@@ -226,6 +226,8 @@ DevelopersIO、Zennなどで100本以上の技術記事を執筆すると共に�
 
 **役割**：インフラエンジニア
 
+**参考URL**：[AWSマルチアカウント管理支援 \| クラスメソッド株式会社](https://classmethod.jp/aws/services/multi-account/)
+
 **業務内容**
 
 1. 複数アカウントのセキュリティアラート見逃しを防ぐためSecurity Hub/GuardDutyの通知をEventBridge経由で集約し、Step Functionsで一元管理する構成を実装
@@ -235,8 +237,6 @@ DevelopersIO、Zennなどで100本以上の技術記事を執筆すると共に�
 
 - AWS サービス：`Security Hub` `GuardDuty` `Step Functions` `EventBridge`
 - IaC： `CDK(Typescript)`
-
-**参考URL**：[AWSマルチアカウント管理支援 \| クラスメソッド株式会社](https://classmethod.jp/aws/services/multi-account/)
 
 #### SaaSログ連携・保管サーバレスシステム設計構築(2023/5 - 2024/6)
 
