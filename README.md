@@ -162,9 +162,11 @@ DevelopersIO、Zennなどで100本以上の技術記事を執筆すると共に�
 
 **業務内容**
 
-1. React.jsアプリと技術スタックを統一し保守性を向上させるためCDK（TypeScript）でIaCを刷新し、コンストラクト化により要件に応じた構成パターンの提供を実現
-2. 顧客環境へのデプロイ作業を効率化するため、CDKからメタデータ削除及びパラメータ最適化がされたCloudFormationを生成する標準化されたデプロイ手法を確立
-3. 運用負荷削減のためBedrock/Kendra/s3でサーバレス RAGアーキテクチャを設計・構築し、コンソールからのAPIキー変更に対応するためLambda-backedカスタムリソースでSecrets Manager連携を実装
+1. React.jsアプリと技術スタックを統一し保守性を向上させるためCDK（TypeScript）でIaCを刷新
+2. 運用負荷削減のためApp Runner/DynamoDB/Bedrock/Kendra/S3/Secrets Managerを用いたサーバレスアーキテクチャを設計・構築
+3. 要件に応じた構成パターンの提供を実現するためCDKのコンストラクト分割を実装すると共に、デプロイ作業を効率化するためCDKメタデータ削除及びパラメータ最適化がされたCloudFormationを生成する標準化されたデプロイ手法を確立
+4. 障害発生時の迅速な対応のためCloudWatch Alarmにて5xxエラー時及びメトリクスフィルターを用いたエラーログ出力時のアラートを定義し、SNS/ChatbotでSlackに通知される仕組みを実装
+
 
 **使用技術**
 
